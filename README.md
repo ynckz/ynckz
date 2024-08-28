@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on APPLE??? IDK WHAT THERE WRITES
 - 📫 wha
-- no.
+- no js.
 - ⚡ Fun fact: wha
 
 <!---

@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @ynckz
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on APPLE??? IDK WHAT THERE WRITES
 - 📫 wha
-- no js.
+- fuck js.
 - ⚡ Fun fact: wha
 
 <!---

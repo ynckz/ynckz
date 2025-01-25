@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @ynckz
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning Rust
+- currently learning Kotlin
 - 📫 wha
-- fuck js.
+- fuck js/ts/react/vue.
 - ⚡ Fun fact: wha
 
 <!---
